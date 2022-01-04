@@ -11,6 +11,5 @@ public class Main {
         month = 36;
         System.out.printf("Ежемесячный платеж %d рублей\n ", cCredit.calculate(percent, month, credit));
 
-
     }
 }
